@@ -1,4 +1,3 @@
 # FIRST PROGRAM
 
-if __name__ == '__main__':
-    print('Hello LBU!!!')
+print("HELLO WORLD \nWelcome to LBU")
